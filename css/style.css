@@ -1340,8 +1340,8 @@ input[type="search"].sb-search-input {
 }
 .criuse-info-left ul li a{
 	color: #FFF;
-	text-transform: uppercase;
-	font-size: 0.875em;
+	
+	font-size: 1.875em;
 	padding: 0.5em;
 	display: block;
 	transition:0.5s all;
@@ -1349,6 +1349,7 @@ input[type="search"].sb-search-input {
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
 }
+
 .criuse-info-left ul li a:hover{
 	color:#2C3E50;
 }
